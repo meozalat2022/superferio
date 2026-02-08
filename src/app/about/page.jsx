@@ -122,7 +122,7 @@ const About = () => {
 
           <div className="flex gap-4 justify-center">
             <Link
-              href="/Products"
+              href="/Products/gases"
               className="bg-white text-slate-900 px-6 py-3 rounded-lg font-medium"
             >
               View Products

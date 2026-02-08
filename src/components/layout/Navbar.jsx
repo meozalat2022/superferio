@@ -60,9 +60,9 @@ export default function Navbar() {
               Why Superferio
             </Link>
 
-            <Link href="/contact" className="hover:text-slate-900">
+            {/* <Link href="/contact" className="hover:text-slate-900">
               Contact
-            </Link>
+            </Link> */}
 
           </nav>
 
