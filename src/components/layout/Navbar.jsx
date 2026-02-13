@@ -59,7 +59,9 @@ export default function Navbar() {
             <Link href="/why-superferio" className="hover:text-slate-900">
               Why Superferio
             </Link>
-
+            <Link href="/careers" className="hover:text-slate-900">
+              Careers
+            </Link>
             {/* <Link href="/contact" className="hover:text-slate-900">
               Contact
             </Link> */}

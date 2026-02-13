@@ -6,7 +6,6 @@ export const metadata = {
   description:
     "Explore Superferio refrigeration gases for commercial and industrial HVAC applications.",
 };
-console.log(" products:", products);
 
 export default function GasesPage() {
   const gases = products.filter(

@@ -44,7 +44,7 @@ export default function ProductCard({ product }) {
           </span>
 
           <Link
-            href={`/products/${category}/${slug}`}
+            href={`/Products/${category}/${slug}`}
             className="text-sm font-medium text-blue-600 hover:text-blue-700"
           >
             View details →
